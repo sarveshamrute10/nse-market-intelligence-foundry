@@ -13,7 +13,8 @@ and exposes insights through Workshop applications.
 
 ## Architecture
 
-[architecture image]
+<img width="2720" height="3680" alt="nse_foundry_pipeline_v2" src="https://github.com/user-attachments/assets/5de2eae6-649d-4830-9d38-db1e153f0500" />
+
 
 ---
 
